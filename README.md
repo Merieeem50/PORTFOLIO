@@ -1,31 +1,29 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Mariam AKOUR]
 
-🎓 Student in Computer Science  
+🎓 Student in sofware design & development   
 💻 Passionate about Web Development  
 
 ---
 
 ## 🚀 Skills
 - HTML, CSS, JavaScript  
-- C / C++  
-- Git & GitHub  
+- C, Python
+- PHP, SQL
+- Git & GitHub
+- VS code
 
 ---
 
 ## 📂 Projects
-🔹 [Project 1](https://github.com/yourusername/project1)  
-🔹 [Project 2](https://github.com/yourusername/project2)  
+🔹 [Project 1](https://github.com/Merieeem50/mini-projet)  
+🔹 [Project 2](https://github.com/Merieeem50/MyPortfolio)  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
 
 ## 📫 Contact
-- Email: your@email.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: mariamakour677@email.com  
+- LinkedIn: https://linkedin.com/in/ ](https://www.linkedin.com/in/mariam-akour-5b2875387/
 
 ---
 
